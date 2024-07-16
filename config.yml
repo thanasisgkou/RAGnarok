@@ -1,0 +1,14 @@
+embedding:
+  model: text-embedding-ada-002
+  batch_size: 100
+
+text_splitting:
+  chunk_size: 800
+  chunk_overlap: 80
+
+similarity_search:
+  k: 5
+
+llm:
+  model: llama3
+  temperature: 0.1

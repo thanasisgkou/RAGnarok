@@ -1,0 +1,7 @@
+langchain~=0.1.20
+chromadb
+openai~=1.30.3
+PyPDF2~=3.0.1
+python-dotenv~=1.0.1
+colorlog~=6.8.2
+PyYAML~=6.0.1
